@@ -5,8 +5,6 @@ VisualStudioVersion = 12.0.20827.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hitachi.Coding.Model", "Hitachi.Coding.Model\Hitachi.Coding.Model.csproj", "{E583C9F0-FC43-40D6-9A2A-DA7498AB2826}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hitachi.Coding.Console", "Hitachi.Coding.Console\Hitachi.Coding.Console.csproj", "{D30D70E8-79E3-4707-908E-C10ADB518380}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hitachi.Coding.Test", "Hitachi.Coding.Test\Hitachi.Coding.Test.csproj", "{E64339E7-CE00-45E4-B117-D23D2DE95FFE}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{E583C9F0-FC43-40D6-9A2A-DA7498AB2826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E583C9F0-FC43-40D6-9A2A-DA7498AB2826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E583C9F0-FC43-40D6-9A2A-DA7498AB2826}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D30D70E8-79E3-4707-908E-C10ADB518380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D30D70E8-79E3-4707-908E-C10ADB518380}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D30D70E8-79E3-4707-908E-C10ADB518380}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D30D70E8-79E3-4707-908E-C10ADB518380}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E64339E7-CE00-45E4-B117-D23D2DE95FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E64339E7-CE00-45E4-B117-D23D2DE95FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E64339E7-CE00-45E4-B117-D23D2DE95FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
